@@ -6,7 +6,7 @@ This project generates a QR code linking to your GitHub homepage using Python an
 
 ### 1. Clone this repository:
 ```bash
-git clone https://github.com/Diya-0816/qr-code-docker.git
+git clone https://github.com/user/qr-code-docker.git
 cd qr-code-docker
 ```
 
