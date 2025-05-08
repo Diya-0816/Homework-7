@@ -8,7 +8,7 @@ WORKDIR /app
 COPY . .
 
 # Install dependencies
-RUN pip install -r requirements.txt
+RUN pip install -r requiremen.txt
 
 # Run the script
-CMD ["python", "main.py"]
+CMD ["python", "ma.py"]
